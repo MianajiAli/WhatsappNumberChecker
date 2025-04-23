@@ -1,4 +1,4 @@
-# WhatsappCheckNumber
+# WhatsappNumberChecker
 ### A tool to see who has WhatsApp in the list of numbers
 ![whatsapp](https://user-images.githubusercontent.com/87234097/189420309-6d37e87b-aefe-46e4-8167-df432657809b.png)
 
